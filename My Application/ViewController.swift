@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  TheNameGame
+//  My Application
 //
-//  Created by Skylar Spears on 3/14/17.
+//  Created by Skylar Spears on 3/15/17.
 //  Copyright © 2017 Skylar Spears. All rights reserved.
 //
 
@@ -12,6 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        if let new  = Bundle.main.loadNibNamed("Feature", owner: self, options: nil)?.first as? FeatureView {
+            self.view.addSubview(new)
+        
+            
+        }
         // Do any additional setup after loading the view, typically from a nib.
     }
 

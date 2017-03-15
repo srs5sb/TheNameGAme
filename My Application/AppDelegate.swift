@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  TheNameGame
+//  My Application
 //
-//  Created by Skylar Spears on 3/14/17.
+//  Created by Skylar Spears on 3/15/17.
 //  Copyright © 2017 Skylar Spears. All rights reserved.
 //
 

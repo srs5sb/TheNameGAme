@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>TheNameGame.xcscheme</key>
+		<key>My Application.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>21AB68C91E78C41C007E6D42</key>
+		<key>21029F011E79E31E00B1BE10</key>
 		<dict>
 			<key>primary</key>
 			<true/>
